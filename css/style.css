@@ -1,3 +1,4 @@
+/*背景不透明度*/
 .l-wrapper {
   position: absolute;
   /*width: 480px;
@@ -10,7 +11,7 @@
   text-align: center;
   background: rgba(0, 0, 0, .1)
 }
-
+/*控制加载动画的位置*/
 svg {
   margin-top: 50%;
   height: 120px;
